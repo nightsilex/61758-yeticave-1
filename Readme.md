@@ -1,6 +1,6 @@
 # Личный проект «YetiCave» 
 
-* Студент: [Алексей Е.](https://up.htmlacademy.ru/php/3/user/61758).
+* Студент: [NightSilex](https://up.htmlacademy.ru/php/3/user/61758).
 * Наставник: `Неизвестно`.
 
 ---
